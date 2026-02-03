@@ -1,0 +1,11 @@
+# PPE Detection System Dependencies
+# Python 3.8+
+
+ultralytics==8.1.20
+opencv-python==4.9.0.80
+numpy>=1.24.0,<2.0.0
+torch==2.2.0
+torchvision==0.17.0
+roboflow==1.1.31
+pillow==10.2.0
+pyyaml==6.0.1
